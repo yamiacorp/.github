@@ -1,1 +1,1 @@
-[Contributing instructions](../CONTRIBUTING.md)
+[Contributing instructions](CONTRIBUTING.md)
